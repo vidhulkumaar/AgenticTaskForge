@@ -1,0 +1,36 @@
+# Environments
+.env
+.env.local
+.env.*.local
+.venv/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node
+node_modules/
+dist/
+build/
+.npm
+
+# IDEs and OS
+.idea/
+.vscode/
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Database
+*.sqlite3
+
+# Logs
+logs/
+*.log
